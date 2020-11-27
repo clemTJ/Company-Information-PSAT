@@ -1,5 +1,5 @@
-/data/*
+data/*
 .DS_Store
 .ipynb_checkpoints/*
 /GloVe-master/*
-stanford-postagger-full-2015-04-20.zip
+.ipynb_checkpoints
